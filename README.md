@@ -27,4 +27,4 @@ Some SQL techniques used in this project include joins, CTEs, temp tables, windo
 By analyzing the COVID-19 data using SQL, our project aims to provide meaningful insights into the impact of the virus on different regions, assess the effectiveness of vaccination efforts, and understand the severity of the pandemic over time. The findings from this project can contribute to informed decision-making, resource allocation, and the development of effective public health strategies.
 
 # Dashboard Report
-Here is the [Tableau dashboard](https://public.tableau.com/app/profile/nofisat.adegbenro/viz/CovidProject_16958289370930/Dashboard1) report that was builf to visualise the insights derived from this analysis.
+Here is the [Tableau dashboard](https://public.tableau.com/app/profile/nofisat.adegbenro/viz/CovidProject_16958289370930/Dashboard1) report that was built to visualise the insights derived from this analysis.
