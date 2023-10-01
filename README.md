@@ -1,6 +1,9 @@
 # COVID-19 Exploratory Data Analysis Using SQL
 This project focuses on analyzing data related to the COVID-19 pandemic using SQL queries. We will be working with a dataset that provides information about COVID-19 cases, deaths, population, and vaccinations across different locations and continents.The main objective is to gain valuable insights and answer important questions about the pandemic.
 
+This Covid-19 data was sourced from [our World in Data](https://ourworldindata.org/covid-deaths) starting from 8th january 2020 to 27th september 2023.
+
+# SQL Queries
 We will be using SQL queries to address different aspects of the COVID-19 data. Here is a summary of the queries and the insights they provide:
 
 1. Mortality Rate: This query calculates the percentage of deaths in relation to the total number of cases. It helps us understand how severe the virus is in different locations and continents.
@@ -22,3 +25,6 @@ We will be using SQL queries to address different aspects of the COVID-19 data. 
 Some SQL techniques used in this project include joins, CTEs, temp tables, window functions, and aggregate functions to derive insights from the data. In addition to the SQL queries, this project involves creating views to store the results of our analyses. These views can be used for further exploration, data visualization, and reporting purposes.
 
 By analyzing the COVID-19 data using SQL, our project aims to provide meaningful insights into the impact of the virus on different regions, assess the effectiveness of vaccination efforts, and understand the severity of the pandemic over time. The findings from this project can contribute to informed decision-making, resource allocation, and the development of effective public health strategies.
+
+# Dashboard Report
+Here is the [Tableau dashboard](https://public.tableau.com/app/profile/nofisat.adegbenro/viz/CovidProject_16958289370930/Dashboard1) report that was builf to visualise the insights derived from this analysis.
